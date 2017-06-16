@@ -1,2 +1,2 @@
 # Titanic-survivor-analysis
-My analysis of  Titanic dataset for the data analytics bootcamp week 2 homework
+My analysis of  Titanic dataset for the data analytics bootcamp week 2 homework. Analysis shows that females were more likely to have survived than males, that 1st class passengers were more likely to survive than 3rd class passengers, passengers who embarked at Cherberg were more likely to survive than those who embarked from the other 2 cities, and seniors were less likely than adults or children to have lived.
